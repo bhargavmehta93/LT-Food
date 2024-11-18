@@ -1,6 +1,11 @@
 # LT-Food
 We Are Looking For Dashboard where we can check our Financial Performance and various financial metrics to judge our business
 
+1. Power Bi Report For LT Food Project : <a href "https://github.com/bhargavmehta93/LT-Food/blob/main/LT%20Food.pbix"</a>
+2. Data : <a href "https://github.com/bhargavmehta93/LT-Food/blob/main/LT%20Food%20Data.xlsx"</a>
+3. Power Bi Report PDF: <a href "https://github.com/bhargavmehta93/LT-Food/blob/main/LT%20Foods%20Financial%20Analysis%20(1).pdf"</a>
+4. LT Food PPT: <a href "https://github.com/bhargavmehta93/LT-Food/blob/main/LT%20Foods%20Financial%20Analysis.pptx"</a>
+
 # Carysil Financial Analysis
 Understanding The Business
 Understand the Data First To Understand the Business in Better Way….Excel
